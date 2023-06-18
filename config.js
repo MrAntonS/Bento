@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Geeks For Geeks',
 			icon: 'code-2',
-			link: 'https://practice.geeksforgeeks.org/'
+			link: 'https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header'
 		},
 		{
 			id: '6',
