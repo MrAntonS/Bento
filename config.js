@@ -89,7 +89,7 @@ const CONFIG = {
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://lemmy.fmhy.ml/',
-		},
+		}
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
