@@ -68,28 +68,29 @@ const CONFIG = {
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
-		}
-	],
-
-	secondButtonsContainer: [
+		},
 		{
-			id: '1',
+			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		},
 		{
-			id: '2',
+			id: '5',
 			name: 'Geeks For Geeks',
 			icon: 'code-2',
 			link: 'https://practice.geeksforgeeks.org/'
 		},
 		{
-			id: '3',
+			id: '6',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://lemmy.fmhy.ml/',
 		}
+	],
+
+	secondButtonsContainer: [
+		
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
