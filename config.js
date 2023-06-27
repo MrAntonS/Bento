@@ -134,8 +134,8 @@ const CONFIG = {
 					link: 'https://www.udemy.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Cisco.U',
+					link: 'https://u.cisco.com',
 				},
 				{
 					name: 'Slack',
