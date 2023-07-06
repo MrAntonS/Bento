@@ -138,8 +138,8 @@ const CONFIG = {
 					link: 'https://u.cisco.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com',
 				},
 			],
 		},
