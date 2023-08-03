@@ -134,8 +134,8 @@ const CONFIG = {
 					link: 'https://www.udemy.com/',
 				},
 				{
-					name: 'Cisco.U',
-					link: 'https://u.cisco.com',
+					name: 'WakeTech',
+					link: 'https://my.waketech.edu',
 				},
 				{
 					name: 'Youtube',
